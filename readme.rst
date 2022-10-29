@@ -2,7 +2,7 @@
 Aplikasi Ujian
 ###################
 
-CodeIgniter Framework
+CodeIgniter Framework, Admin LTE
 
 *******************
 Database
